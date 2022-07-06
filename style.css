@@ -222,6 +222,20 @@ section {
     color: gray;
     border: none;
     border-top: 25px;
+    padding: 13px 25px;
+    border: none;
+    border-radius: 7px;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.button-1 {
+    padding: 8px 20px;
+    background: #ff3799;
+    border: none;
+    border-radius: 7px;
+    text-align: center;
+    tr
 }
 
 footer {
